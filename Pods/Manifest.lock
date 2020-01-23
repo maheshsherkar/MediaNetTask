@@ -1,0 +1,22 @@
+PODS:
+  - SDWebImage (4.4.7):
+    - SDWebImage/Core (= 4.4.7)
+  - SDWebImage/Core (4.4.7)
+  - Swinject (2.6.2)
+
+DEPENDENCIES:
+  - SDWebImage (~> 4.0)
+  - Swinject
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+    - Swinject
+
+SPEC CHECKSUMS:
+  SDWebImage: c10d14a8883ebd89664f02a422006f66a85c0c5d
+  Swinject: cf7458774b1b00323080a9c67e47a1ee7f9d2af1
+
+PODFILE CHECKSUM: cfb449d1e18dd8811ccf7f77e14de86486bcf0a9
+
+COCOAPODS: 1.7.5
